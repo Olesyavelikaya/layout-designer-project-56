@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Roberto-Regular";
+    src: url(//fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Roberto-Medium";
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Roberto-Bold";
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
