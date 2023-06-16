@@ -59,11 +59,11 @@
   }
 
   h1 {
-    font:700 30px/45px "Roboto-Medium", sans-serif;
+    font:700 30px/45px "Roboto-Regular", sans-serif;
   }
 
   h2 {
-    font:700 18px/27px "Roboto-Medium", sans-serif; 
+    font:700 18px/27px "Roboto-Regular", sans-serif; 
   }
 
   h3 {
@@ -439,10 +439,6 @@ font: 700 12.8px/19.2px sans-serif;
   gap: 50px;
 }
 
-.page-discography_album {
-  margin-bottom: 25px;
-}
-
 .title_small {
 font:  18px/27px "Roboto-Bold",sans-serif;
 text-transform: capitalize;
@@ -455,6 +451,10 @@ font:  16px/24px "Roboto-Regular",sans-serif;
 
 .text_center {
   text-align: center;
+}
+
+.section__padding {
+  padding-bottom: 100px;
 }
 
 

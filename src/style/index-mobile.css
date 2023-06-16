@@ -57,10 +57,6 @@
     padding-left: 20px ;
   }
 
-  .card__price {
-    padding-top: 20px;
-  }
-
   .card__shape {
     margin-bottom: 45px;
   }
@@ -81,6 +77,10 @@
     height: 186px;
     width: 100%;
 
+  }
+
+  .section__column_info {
+    margin-top: 48px;
   }
 
   .center {
